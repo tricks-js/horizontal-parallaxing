@@ -1,5 +1,7 @@
 # horizontal-parallaxing
-horizontal-parallaxing.js A script to achieve a parallax effect with a picture horizontally!
+## horizontal-parallaxing.js A script to achieve a parallax effect with a picture horizontally!
+
+
 
 
 <script type="text/javascript" src="jquery.scrollVertical.js"></script>
